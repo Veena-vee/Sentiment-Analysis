@@ -26,6 +26,6 @@ Some preprocessing task involves :
 
 #### Using Count Vectorization 
 It uses the counting of the set of words used in the document.
-#### Using TF IDF (Term Frequency–Inverse Document Frequency) Count Vectorization 
+#### Using TF IDF (Term Frequency–Inverse Document Frequency)
 It gives a way to associate each word in a document with a number that represents how relevant each word is in that document. 
   
