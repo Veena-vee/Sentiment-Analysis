@@ -1,4 +1,4 @@
-# Sentiment-Analysis using Twitter data
+# Sentiment-Analysis using Twitter Data
 
 ### Description
 Sentiment analysis is an automated process of identifying and classifying subjective information in text data. This might be an opinion, a judgment, or a feeling about a particular topic or product feature.
