@@ -8,8 +8,8 @@ This article reports on the exploration and preprocessing of data, transforming 
 To build a classification model that will help to identify the tweets which is classified into positive and negative tweets.
 
 ### Data
-train
-test
+train.csv
+test.csv
 
 ### Data Cleaning & Preprocessing
 Removing the columns which are not relevent for the analysis.
